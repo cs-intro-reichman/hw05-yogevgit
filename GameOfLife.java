@@ -188,7 +188,7 @@ for (int i = 1; i < arr.length-1; i++)
 		{
 			for (int j = 1; j< arr[0].length-1; j++)
 			{
-                 System.out.printf("%4s", arr[i][j]);
+                 System.out.printf("%3s", arr[i][j]);
 			}
 			System.out.println();
 		}
